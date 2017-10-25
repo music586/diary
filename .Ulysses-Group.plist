@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>收集与摘抄</string>
 		<string>总结</string>
 		<string>日常</string>
 	</array>
@@ -19,6 +20,16 @@
 				<dict>
 					<key>b5bf5c2cc9bba656e46b1e0f815903e5e4b791a8bdbe8c24b0bb24c61c3b4612</key>
 					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>收集与摘抄</key>
+			<dict>
+				<key>lastModification</key>
+				<real>530606603.42958099</real>
+				<key>version</key>
+				<dict>
+					<key>b5bf5c2cc9bba656e46b1e0f815903e5e4b791a8bdbe8c24b0bb24c61c3b4612</key>
+					<integer>9</integer>
 				</dict>
 			</dict>
 			<key>日常</key>
@@ -40,7 +51,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>b5bf5c2cc9bba656e46b1e0f815903e5e4b791a8bdbe8c24b0bb24c61c3b4612</key>
-			<integer>6</integer>
+			<integer>9</integer>
 		</dict>
 	</dict>
 </dict>
