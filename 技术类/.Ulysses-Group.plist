@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>javascript值得重复造的轮子.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>530676731.89649898</real>
+				<key>version</key>
+				<dict>
+					<key>b5bf5c2cc9bba656e46b1e0f815903e5e4b791a8bdbe8c24b0bb24c61c3b4612</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>javascript值得重复造的轮子.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>b5bf5c2cc9bba656e46b1e0f815903e5e4b791a8bdbe8c24b0bb24c61c3b4612</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
