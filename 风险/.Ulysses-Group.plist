@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>关于风险的书籍.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>536690976.06932801</real>
+				<key>version</key>
+				<dict>
+					<key>c4d1468adc71b02935e601e52d2579f9a8b3f1a58112cd73d4e7a0a70647192a</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>风险的理解与小句子收集.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>536690633.98685098</real>
+				<key>version</key>
+				<dict>
+					<key>c4d1468adc71b02935e601e52d2579f9a8b3f1a58112cd73d4e7a0a70647192a</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>关于风险的书籍.md</string>
+		</array>
+		<array>
+			<string>风险的理解与小句子收集.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>c4d1468adc71b02935e601e52d2579f9a8b3f1a58112cd73d4e7a0a70647192a</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

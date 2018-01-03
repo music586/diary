@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>风险</string>
 		<string>技术类</string>
 		<string>收集与摘抄</string>
 		<string>总结</string>
@@ -53,6 +54,18 @@
 					<integer>3</integer>
 				</dict>
 			</dict>
+			<key>风险</key>
+			<dict>
+				<key>lastModification</key>
+				<real>536690610.26990002</real>
+				<key>version</key>
+				<dict>
+					<key>b5bf5c2cc9bba656e46b1e0f815903e5e4b791a8bdbe8c24b0bb24c61c3b4612</key>
+					<integer>12</integer>
+					<key>c4d1468adc71b02935e601e52d2579f9a8b3f1a58112cd73d4e7a0a70647192a</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>storeFormatVersion</key>
@@ -63,6 +76,8 @@
 		<dict>
 			<key>b5bf5c2cc9bba656e46b1e0f815903e5e4b791a8bdbe8c24b0bb24c61c3b4612</key>
 			<integer>12</integer>
+			<key>c4d1468adc71b02935e601e52d2579f9a8b3f1a58112cd73d4e7a0a70647192a</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
 </dict>
